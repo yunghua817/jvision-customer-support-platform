@@ -8,6 +8,10 @@
 - 線上海報：https://jvision-customer-support-platform.vercel.app/marketing/jvision-customer-support-platform-poster.png
 - 產品介紹 PDF：https://jvision-customer-support-platform.vercel.app/marketing/jvision-customer-support-platform-product-introduction.pdf
 
+## 專案海報
+
+[![Jvision 客服支援平台海報](docs/marketing/jvision-customer-support-platform-poster.png)](docs/marketing/jvision-customer-support-platform-poster.png)
+
 ## 功能
 
 - 共享客服收件箱
